@@ -19,7 +19,7 @@ from tg_bot.modules.helper_funcs.misc import paginate_modules
 
 PM_START_TEXT = """
 
-*ഹായ് {}, എന്റെ പേര് {}!*
+*Hey {}, I'm {}!*
 
 *I'm a group manager bot
 my destiny is my* [Admin's](tg://user?id={}) *decision.
